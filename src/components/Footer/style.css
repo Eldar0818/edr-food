@@ -1,0 +1,52 @@
+.footer{
+    width: 100%;
+    padding: 20px;
+    background-color: #242424;
+}
+
+.footer-content{
+    width: 100%;
+    padding: 25px 0;
+    margin-bottom: 15px;
+}
+
+.footer-up{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer-logo{
+    color: #f0f0f0;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.footer-icons{
+    display: flex;
+    align-items: center;
+}
+
+.footer-icon{
+    margin: 0 15px;
+    color: #f0f0f0;
+    cursor: pointer;
+    font-size: 25px;
+}
+
+.copyRight{
+    width: 100%;
+    color: #ddd;
+    font-size: 15px;
+    letter-spacing: 1.2px;
+}
+
+@media screen and (max-width: 498px) {
+    .footer-up{
+        flex-direction: column;
+    }
+    .footer-logo{
+        margin-bottom: 15px;
+    }
+}

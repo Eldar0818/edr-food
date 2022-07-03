@@ -1,0 +1,29 @@
+.menulist-page{
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+
+.foods-wrapper{
+    padding-top: 25px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+@media screen and (max-width: 1280px) {
+    .menulist-page{
+        width: 95%;
+    }
+}
+
+@media screen and (max-width: 898px) {
+    .foods-wrapper{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media screen and (max-width: 598px) {
+    .foods-wrapper{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

@@ -1,0 +1,33 @@
+.food-list{
+    padding: 10px;
+    box-shadow: 0px 0px 7.5px 5px rgba(0, 0, 0, 0.35);
+    border-radius: 6px;
+}
+
+.foodlist-poster{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.foodlist-title{
+   height: 70px;
+}
+
+.foodlist-title h5{
+    font-size: 20px;
+    letter-spacing: 1.1px;
+    color: orangered;
+}
+
+.food-list-btn{
+    width: 150px;
+    height: 40px;
+    margin: 10px 0;
+    border: none;
+    background-color: orangered;
+    color: #fff;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 15px;
+}

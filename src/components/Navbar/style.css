@@ -1,0 +1,49 @@
+.navbar{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 50px;
+    transition: all 0.2s ease;
+}
+
+.navbar.active{
+    background-color: orangered;
+    box-shadow: 0px 0px 7.5px 5px rgba(0, 0, 0, 0.35);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.logo{
+    font-size: 35px;
+    color: #fff;
+    letter-spacing: 1.2px;
+    cursor: pointer;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+.logo-icon{
+    margin-right: 10px;
+    color: orange;
+}
+
+.menu-btn{
+    padding: 10px;
+}
+.menu-btn .menu-icon{
+    font-size: 35px;
+    cursor: pointer;
+    color: #fff;
+}
+
+@media screen and (max-width: 500px) {
+    .navbar{
+        padding: 20px;
+    }
+}

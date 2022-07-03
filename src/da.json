@@ -1,0 +1,53 @@
+{
+    "foods": [
+        {
+            "_id": 1,
+            "title": "Samosa(Hand pie)",
+            "poster": "https://live.staticflickr.com/8339/8181739799_9e485faf8c_b.jpg",
+            "desc": "What is it? Flaky, tender, and buttery, these meat hand pies are baked, not fried, and usually made with lamb. They're enjoyed in many parts of Central Asia, including Uzbekistan and Turkmenistan, as well as the Xinjiang Uyghur region of China.",
+            "intro": "Dough:- 300g all-purpose flour- 2g salt- 2 tbsps (30ml or 15g) oil- 1 egg- 100ml water Filling:- 300g boneless lamb leg- 1/2 red onion- 1.5 tsps salt- 1 tsp black pepper- 2 tsps cumin Bake at 400°F for 25 min"
+        },
+        {
+            "_id": 2,
+            "title": "Lagman Noodles",
+            "poster": "https://petersfoodadventures.com/wp-content/uploads/2016/01/Laghman-1024x819.jpg",
+            "desc": "The Uyghur Laghman recipe is perhaps the most famous Uyghur recipe equally beloved in China and Central Asia alike. Unlike many other regional dishes, such as plov, naan, kebab, etc. that are claimed by several different countries, everyone agrees that Laghman noodles are an Uyghur dish and the best Laghman can be found in places where Uyghur people live, such as Northwest China, Uzbekistan, Kyrgyzstan, and Kazakhstan.",
+            "intro": "One hour before you start, place the mix of flour, eggs, and salt in a bowl and stir. Add some water, mix, and wait until it becomes a smooth, non-sticky dough. Start kneading and knead until the dough is not sticky. Cover it for 30 minutes. Cut the dough into 4 pieces. Flatten the pieces and aim for a rectangular shape. Cut the dough rectangles crosswise and cover the dough for another 30 minutes. If you have the time, you can keep it up to 2.5 hours.Dust some flour on the dough and the working area to keep the dough from sticking. Take a strip of dough and pressure it with your fingers. Grab it from both sides and pinch it gently between your forefinger and thumb and slowly start stretching along its length. Pull until the noodles are 12 to 13 inches long and place it on the floured surface. Dust it with flour on the top. Repeat the process. Cut the meat into squares. Season it. Heat up your frying pan and add some oil. Add the onion, garlic, and meat and stir-fry for 5 minutes. Add the bell peppers and tomatoes and keep stir-frying. Add water, salt, and other spices. Cook for another 10 minutes until the peppers soften but keep their shape and the tomatoes start melting."
+        },
+        {
+            "_id": 3,
+            "title": "Kawap",
+            "poster": "https://www.dolanuyghurcuisine.com.au/wp-content/uploads/2020/06/beafbotiimg-1024x819.png",
+            "desc": "If you're looking for something a little different this BBQ season these lamb skewers are ideal - spicy, tender, smokey and incredibly tasty. This recipe is based roughly on the lamb skewers you find through central Asia and Uyghur Region (northwest China).",
+            "intro": "Cut the lamb and the fat into roughly inch big cubes. Make the marinade by putting the olive oil, lemon juice, garlic, salt and spices into a bowl and mixing until even. Put the meat and fat in the marinade and mix until thoroughly coated, then cover, put the bowl in the fridge and leave for at least 2 hours (or overnight if you think ahead). Skewer the meat, roughly 2 pieces of lean meat to one piece of fat (you don't have to eat the fat but do keep it on whilst cooking, as it helps keep the meat nice and tender). Cook on the BBQ until you feel it's ready to eat. I prefer it so the fat is nice and crispy, but just cook it to your own preference."
+        },
+        {
+            "_id": 4,
+            "title": "Polo",
+            "poster": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/41/18/49/picXBzfax.jpg",
+            "desc": "The rice is infused with tons of flavor from the lamb, cumin, and chili peppers, creating a sensational feast. The onion and carrot have a tender, buttery texture. They all come together beautifully with the tender lamb, harmonizing into an addictive flavor that you just cannot stop eating.",
+            "intro": "Heat oil in a large pot. Set the stove temperature at 7/10 at highest.Cook the meat in the oil, stirring occasionally until evenly browned. Add the chopped onion to the pot, still stirring, and cook until it is translucent. Stir carrots into the pot. Note that it will initially look like there are too many carrots in the dish however, once they begin to absorb some of the oil they will shrink down and mix well into the the recipe. Add salt according to your taste. Pour water into the pot. When the water boils, add the hot pepper and whole garlic bulb. Let them simmer in the mixture for five minutes, and then fish them back out and set them aside. Add cumin. Lower the stove temperature (to about 3/10) and allow the mixture to boil for 15 to 20 minutes. After the 15 to 20 minutes, raise the heat (once again, no higher than 7/10) and add rice to the pot. Spread the rice out on top of the water, but do not mix it with the rest of the ingredients. When water is no longer visible above the rice, then spoon the rice towards the center. Replace the garlic bulb and red pepper into the pot, and pour raisins on top of the rice. Place a lid on top of the pot and lower the heat to 3/10. Cook for 30 minutes. After that time, once again remove the hot pepper and the garlic, and stir the rest of the ingredients. This dish is often served with flatbread, yogurt, and salad with a vinegar dressing."
+        }
+    ],
+
+    "feedbacks": [
+        {
+            "id": 1,
+            "customer": "Tony",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque in magnam et nostrum harum ipsam fuga recusandae, magni voluptatibus accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "avatar": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 2,
+            "customer": "Charlotte",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque in magnam et nostrum harum ipsam fuga recusandae, magni voluptatibus accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "avatar": "https://images.pexels.com/photos/1674752/pexels-photo-1674752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 3,
+            "customer": "Olivia",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque in magnam et nostrum harum ipsam fuga recusandae, magni voluptatibus accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "avatar": "https://images.pexels.com/photos/1547971/pexels-photo-1547971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+    ]
+}

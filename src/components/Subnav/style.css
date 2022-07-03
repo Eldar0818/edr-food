@@ -1,0 +1,22 @@
+
+.little-nav{
+    width: 100%;
+    padding: 25px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.menulist-logo{
+    display: flex;
+    align-items: center;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    letter-spacing: 1.2px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.menulist-logo-icon{
+    margin-right: 10px;
+    color: orange;
+}
